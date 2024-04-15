@@ -1,0 +1,15 @@
+#search-dialog-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  #search-dialog-title-column {
+    display: flex;
+    flex-direction: column;
+    margin-right: 24px;
+  }
+  
+  #search-dialog-content {
+    background-color: #dddddd;
+  }

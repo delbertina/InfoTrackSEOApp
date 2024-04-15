@@ -1,0 +1,6 @@
+@InfoTrackSEOAPI_HostAddress = http://localhost:5063
+
+GET {{InfoTrackSEOAPI_HostAddress}}/search/
+Accept: application/json
+
+###
