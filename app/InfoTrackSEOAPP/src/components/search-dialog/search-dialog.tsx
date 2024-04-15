@@ -103,7 +103,7 @@ function SearchDialog(props: SearchDialogProps) {
           {/* list of existing searches */}
           <div>
             <div>
-              {[...searchList, ...searchList].map((search, i) => (
+              {searchList.map((search, i) => (
                 <SearchCard
                   key={i}
                   search={search}
