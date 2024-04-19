@@ -3,6 +3,12 @@ Frontend: React, Typescript, MUI
 
 Backend: C# Asp.Net Web API, EF Core, SQLite
 
+Made as a take home project during the interview process with the company **InfoTrack** .
+
+I spend every waking moment of free time for a week and a half on this project and even took a few days of PTO to further speed up the development of this project.
+The initial expectation was for the company to provide a completed backend of this project since the position was frontend focused, but that did not end up being the case.
+I had to spend the majority of my time learning C#, .NET, and EF Core to complete this project.
+
 ## Design Overview
 When reading over the instructions it was clear that being able to keep track and review the history of previous searches.
 I could see that making this solution able to track multiple different query & domain pairs would also greatly benefit the user.
